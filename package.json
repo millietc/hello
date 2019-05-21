@@ -1,0 +1,26 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "just a test blah blah blah",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millietc/hello.git"
+  },
+  "author": "charlie milliet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/millietc/hello/issues"
+  },
+  "homepage": "https://github.com/millietc/hello#readme",
+  "dependencies": {
+    "aws-sdk": "^2.459.0",
+    "express": "^4.17.0"
+  }
+}
